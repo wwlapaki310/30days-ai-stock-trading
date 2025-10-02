@@ -33,7 +33,7 @@
 
 本プロジェクトでは、複数の生成AIを使用して銘柄選定を行い、その結果を比較検証します。
 
-- **Claude Sonnet 4.5** (Anthropic) - メイン使用
+- **Claude Sonnet 4.5** (Anthropic)
 - **Gemini Pro** (Google)
 - **ChatGPT** (OpenAI)
 
